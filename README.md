@@ -2,10 +2,11 @@
 
 (proyecto en R / proyect in R)
 
-Gráficos interactivos <a href='https://rpubs.com/ailuvee/648118'> aquí </a>. 
-Interactive charts <a href='https://rpubs.com/ailuvee/648118'> here </a>. 
+<h3>Gráficos interactivos <b><a href='https://rpubs.com/ailuvee/648118'> aquí</a></b>.</h3>
+Interactive charts <b><a href='https://rpubs.com/ailuvee/648118'> here</a></b>. 
 
-Imágenes estáticas / Static images
+<h3>Imágenes estáticas</h3>
+Static images
 
 <img src="https://i.ibb.co/5cgVLVK/Rplotvinculo.png"></img>
 
